@@ -14,7 +14,7 @@ function addFriendHandler() {
   } else {
     isStatus.innerHTML = "Stranger";
     isStatus.style.color = "red";
-    addFriend.innerHTML = "Unfollow";
+    addFriend.innerHTML = "Follow";
     check = 0;
   }
 }
